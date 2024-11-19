@@ -1,1 +1,1 @@
-# Bayesian_network
+# Bayesian network
